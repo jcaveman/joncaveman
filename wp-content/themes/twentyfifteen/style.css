@@ -5992,3 +5992,69 @@ p > video {
 		padding: 0;
 	}
 }
+
+/******************** custome styles ********************/
+
+/*#archives-2 {
+	margin-top: 10%;
+}*/
+
+#pages-5 {
+	margin: 10% 0;
+}
+
+#archives-2 .widget-title {
+	display: none;
+}
+
+#pages-5 .widget-title {
+	display: none;
+}
+
+.widget-title {
+	font-size: 10px;
+}
+
+.widget ul li {
+	font-size: 12px;
+}
+
+#pages-5.widget ul li {
+	font-size: 16px;
+}
+
+#pages-5 .widget-title {
+	display: none;
+}
+
+#colophon {
+	display: none;
+}
+
+	.site-header {
+		margin: 0 0 5%;
+		padding: 0 10%;
+	}
+
+	.widget-title {
+		margin: 0 0 1em;
+	}
+
+	.widget {
+		margin: 0 0 5%;
+		padding: 0 10%;
+	}
+
+
+body,
+button,
+input,
+select,
+textarea {
+	color: #333;
+	/*font-family: "Noto Serif", serif;*/
+	font-family: 'HelveticaNeue Regular', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	font-size: 15px;
+	font-size: 1.5rem;
+	line-height: 1.6;
+}
