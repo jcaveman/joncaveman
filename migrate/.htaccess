@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/72220/domains/staging.joncaveman.com/html/migrate/.htpasswd
+require valid-user
